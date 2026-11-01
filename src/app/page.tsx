@@ -51,7 +51,7 @@ export default function Home() {
         <div className="flex shrink-0 justify-center">
           <div className="flex shrink-0 justify-center">
             <Image
-              src="https://res.cloudinary.com/stwhfvnk/image/upload/v1786532376/Niveditha.jpg"
+              src="Niveditha.jpg"
               alt="Niveditha"
               width={280}
               height={280}
